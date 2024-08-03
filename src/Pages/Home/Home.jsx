@@ -46,7 +46,7 @@ const Home = ({setModelLink}) => {
       <div className="flex justify-center items-center h-[80vh]">
         <div className="flex flex-col mt-10 w-[700px] p-10 outline-none border-2 bg-white rounded-md shadow-xl">
           <h4 className="mb-6 text-lg font-bold text-center text-[#444] lowercase">
-            UPLOAD 3D MODEL AND VIEW ON EDITOR
+            UPLOAD 3D MODEL AND VIEW ON EDITOR HERE
           </h4>
           <div className="flex justify-center items-center">
             <label className="border-2 border-dotted bg-gray-50 w-[700px] p-10 text-center flex flex-col justify-center items-center gap-4 rounded-md text-sm cursor-pointer">
